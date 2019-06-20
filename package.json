@@ -1,7 +1,7 @@
 {
   "name": "crux-ui",
   "version": "0.0.0",
-  "description": "PostCSS plugin for creating a utility-first CSS library",
+  "description": "A [relatively] unopinionated utility-first CSS library",
   "keywords": [
     "postcss",
     "css",
@@ -11,13 +11,13 @@
   "scripts": {
     "test": "jest && eslint *.js"
   },
-  "author": "Kyle Foster <hkylefoster@gmail.com>",
-  "license": "MIT",
-  "repository": "hkfoster/postcss-crux-ui",
+  "author": "Kyle Foster <hello@kylefoster.dev>",
+  "license": "ISC",
+  "repository": "hkfoster/crux-ui",
   "bugs": {
-    "url": "https://github.com/hkfoster/postcss-crux-ui/issues"
+    "url": "https://github.com/hkfoster/crux-ui/issues"
   },
-  "homepage": "https://github.com/hkfoster/postcss-crux-ui",
+  "homepage": "https://github.com/hkfoster/crux-ui",
   "dependencies": {
     "postcss": "^7.0.6"
   },
