@@ -1,6 +1,6 @@
 var postcss = require('postcss')
 
-module.exports = postcss.plugin('postcss-crux-ui', function (opts) {
+module.exports = postcss.plugin('crux-ui', function (opts) {
   opts = opts || {}
 
   // Work with options here
